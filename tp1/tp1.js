@@ -1,7 +1,7 @@
 // Lucia Magne
 // Comisión 3
 // TP1 - OpArt en p5.js
-// link a video explicativo: https://youtu.be/T5JhO9Rv1xk
+// link a video explicativo: https://youtu.be/-yi2FHYp9N4
 
 let referencia;
 
@@ -176,4 +176,5 @@ function keyPressed() {
     replicar = false;
   }
 }
+
 
