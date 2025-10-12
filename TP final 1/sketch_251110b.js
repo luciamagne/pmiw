@@ -1,6 +1,7 @@
 // Lucia Magne y Mia Manghi
 // Comisión 3, profesor: David Bedoian
 // Trabajo Práctico: Aventura Gráfica Interactiva Web (AGIW)
+// https://youtu.be/4K8lZ_NTh5U
 
 let pantallaActual = 0; 
 let img = []; 
@@ -306,3 +307,4 @@ function mousePressed() {
         }
     }
 }
+
